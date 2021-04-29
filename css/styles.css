@@ -1,0 +1,104 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-family: 'Public Sans', sans-serif;
+	font-size: 125%;
+}
+
+hr {
+	border: dotted 10px;
+	width: 4%;
+	color: gray;
+	border-bottom: none;
+	margin: 100px auto 100px auto;
+}
+
+h1{
+	font-size: 5.625rem;
+	margin: 50px auto 0 auto;
+	font-family: 'Bangers', cursive;
+	color: #66BFBF;
+	line-height: 2;
+}
+
+h2{
+	font-family: 'Montserrat', cursive;
+	font-size: 2.5rem;
+	color: #66BFBF;
+}
+
+h3{
+	font-family: 'Montserrat', cursive;
+	color: #11999E;
+}
+
+.p1 {
+	color: #66BFBF;
+	font-weight: normal;
+	
+}
+
+.top {
+	background-color: #d8e3e7;
+	position: relative;
+	padding-top: 100px;
+}
+
+.middle {
+	
+}
+
+.bottom {
+	
+}
+
+.idiot{
+	font-weight: bold;
+}
+
+.good{
+	text-decoration: underline;
+}
+
+.bottom-cloud {
+	position: absolute;
+	left: 600px;
+	bottom: 300px;
+}
+
+.top-cloud {
+	position: absolute;
+	right: 600px;
+	top: 50px;
+}
+
+.propic{
+	border-radius: 100%;
+}
+
+.Skill1{
+	border-radius: 100%;
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+
+.dsu{
+	width: 25%;
+	height: 25%;
+	margin-left: 30px;
+	float: right;
+}
+
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+
+.skill1p{
+}
+
+.dsu-desc{
+}
