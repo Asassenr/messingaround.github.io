@@ -44,22 +44,6 @@ h3{
 	padding-top: 100px;
 }
 
-.middle {
-	
-}
-
-.bottom {
-	
-}
-
-.idiot{
-	font-weight: bold;
-}
-
-.good{
-	text-decoration: underline;
-}
-
 .bottom-cloud {
 	position: absolute;
 	left: 600px;
@@ -100,6 +84,11 @@ h3{
 .hobbies{
 	width: 50%;
 	margin: auto;
+}
+
+.linked-in{
+	font-family: 'Public Sans', sans-serif;
+	font-size: 125%;
 }
 
 a:link{
