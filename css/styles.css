@@ -102,5 +102,8 @@ h3{
 	margin: auto;
 }
 
-.dsu-desc{
+.btn{
+	font-family: 'Montserrat', cursive;
+	font-size: 2.5rem;
+	color: #66BFBF;
 }
